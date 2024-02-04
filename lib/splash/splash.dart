@@ -35,7 +35,7 @@ class _SplashScreenState extends State<SplashScreen> {
           child: Text(
             "Welcome To ChatApp",
             style: TextStyle(
-                color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold),
+                color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),
           ),
         ),
       ),
